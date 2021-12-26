@@ -1,2 +1,3 @@
 # nvimDvorak
-Remaps neovim to use dvorak keyboard layout
+
+Remaps Neovim to use a Dvorak keyboard layout
